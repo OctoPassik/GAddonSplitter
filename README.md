@@ -1,7 +1,5 @@
 # GAddonSplitter
-
-![GAddonSplitter Logo](https://images-ext-1.discordapp.net/external/yYexyWsm3duPKxQ08aBE5voSOFVHm0i9tJPev5Rvf8o/https/i.imgur.com/YVswRsd.png?format=webp&quality=lossless&width=736&height=662)
-
+![GAddonSplitter Logo](https://media.discordapp.net/attachments/658646221241581568/1270663909522673747/DALLE_2024-08-07_11.44.27_-_A_long_banner_in_pixel_art_style_for_an_app_that_moves_and_splits_files_designed_in_the_style_of_old_Windows_icons._The_banner_features_a_series_of_s.webp?ex=66b4857b&is=66b333fb&hm=102385c6bee8739c1f5d1bd309beebb1aaee5fcf0a32607feb1a4e6abd2e0bbd&=&format=webp&width=1160&height=662)
 GAddonSplitter is a powerful and user-friendly tool designed to help Garry's Mod enthusiasts and developers manage large addons with ease. This application allows you to split oversized addons into smaller, more manageable parts while preserving their original structure.
 
 ## Features
@@ -33,6 +31,9 @@ GAddonSplitter is a powerful and user-friendly tool designed to help Garry's Mod
 1. Download the latest release from the [Releases](https://github.com/OctoPassik/GAddonSplitter/releases) page.
 2. Extract the ZIP file to your desired location.
 3. Run `GAddonSplitter.exe`.
+
+### Screenshot
+![GAddonSplitter Screenshot](https://images-ext-1.discordapp.net/external/yYexyWsm3duPKxQ08aBE5voSOFVHm0i9tJPev5Rvf8o/https/i.imgur.com/YVswRsd.png?format=webp&quality=lossless&width=736&height=662)
 
 ## Usage
 
